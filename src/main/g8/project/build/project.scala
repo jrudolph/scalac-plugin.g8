@@ -1,5 +1,5 @@
 import sbt._
 
-class MyProject(info: ProjectInfo) extends DefaultProject(info) {
-  // give the user a nice default project!
+class $name$Project(info: ProjectInfo) extends DefaultProject(info) {
+  // Nothing to do here by default
 }

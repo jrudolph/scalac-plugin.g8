@@ -1,0 +1,4 @@
+<plugin>
+  <name>$name$</name>
+  <classname>$package$.$name$Plugin</classname>
+</plugin>
